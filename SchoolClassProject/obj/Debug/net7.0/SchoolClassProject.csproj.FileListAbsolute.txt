@@ -1,0 +1,14 @@
+C:\Users\t0thm\source\repos\SchoolClassProject\bin\Debug\net7.0\SchoolClassProject.exe
+C:\Users\t0thm\source\repos\SchoolClassProject\bin\Debug\net7.0\SchoolClassProject.deps.json
+C:\Users\t0thm\source\repos\SchoolClassProject\bin\Debug\net7.0\SchoolClassProject.runtimeconfig.json
+C:\Users\t0thm\source\repos\SchoolClassProject\bin\Debug\net7.0\SchoolClassProject.dll
+C:\Users\t0thm\source\repos\SchoolClassProject\bin\Debug\net7.0\SchoolClassProject.pdb
+C:\Users\t0thm\source\repos\SchoolClassProject\obj\Debug\net7.0\SchoolClassProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t0thm\source\repos\SchoolClassProject\obj\Debug\net7.0\SchoolClassProject.AssemblyInfoInputs.cache
+C:\Users\t0thm\source\repos\SchoolClassProject\obj\Debug\net7.0\SchoolClassProject.AssemblyInfo.cs
+C:\Users\t0thm\source\repos\SchoolClassProject\obj\Debug\net7.0\SchoolClassProject.csproj.CoreCompileInputs.cache
+C:\Users\t0thm\source\repos\SchoolClassProject\obj\Debug\net7.0\SchoolClassProject.dll
+C:\Users\t0thm\source\repos\SchoolClassProject\obj\Debug\net7.0\refint\SchoolClassProject.dll
+C:\Users\t0thm\source\repos\SchoolClassProject\obj\Debug\net7.0\SchoolClassProject.pdb
+C:\Users\t0thm\source\repos\SchoolClassProject\obj\Debug\net7.0\SchoolClassProject.genruntimeconfig.cache
+C:\Users\t0thm\source\repos\SchoolClassProject\obj\Debug\net7.0\ref\SchoolClassProject.dll
