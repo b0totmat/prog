@@ -1,0 +1,14 @@
+C:\Users\b0totmat\source\repos\Ismétlés\OOP\OOP01\OOP01\bin\Debug\net8.0\OOP01.exe
+C:\Users\b0totmat\source\repos\Ismétlés\OOP\OOP01\OOP01\bin\Debug\net8.0\OOP01.deps.json
+C:\Users\b0totmat\source\repos\Ismétlés\OOP\OOP01\OOP01\bin\Debug\net8.0\OOP01.runtimeconfig.json
+C:\Users\b0totmat\source\repos\Ismétlés\OOP\OOP01\OOP01\bin\Debug\net8.0\OOP01.dll
+C:\Users\b0totmat\source\repos\Ismétlés\OOP\OOP01\OOP01\bin\Debug\net8.0\OOP01.pdb
+C:\Users\b0totmat\source\repos\Ismétlés\OOP\OOP01\OOP01\obj\Debug\net8.0\OOP01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b0totmat\source\repos\Ismétlés\OOP\OOP01\OOP01\obj\Debug\net8.0\OOP01.AssemblyInfoInputs.cache
+C:\Users\b0totmat\source\repos\Ismétlés\OOP\OOP01\OOP01\obj\Debug\net8.0\OOP01.AssemblyInfo.cs
+C:\Users\b0totmat\source\repos\Ismétlés\OOP\OOP01\OOP01\obj\Debug\net8.0\OOP01.csproj.CoreCompileInputs.cache
+C:\Users\b0totmat\source\repos\Ismétlés\OOP\OOP01\OOP01\obj\Debug\net8.0\OOP01.dll
+C:\Users\b0totmat\source\repos\Ismétlés\OOP\OOP01\OOP01\obj\Debug\net8.0\refint\OOP01.dll
+C:\Users\b0totmat\source\repos\Ismétlés\OOP\OOP01\OOP01\obj\Debug\net8.0\OOP01.pdb
+C:\Users\b0totmat\source\repos\Ismétlés\OOP\OOP01\OOP01\obj\Debug\net8.0\OOP01.genruntimeconfig.cache
+C:\Users\b0totmat\source\repos\Ismétlés\OOP\OOP01\OOP01\obj\Debug\net8.0\ref\OOP01.dll
